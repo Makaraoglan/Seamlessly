@@ -1,4 +1,4 @@
-@SEAMLES10-503 @wipp
+@SEAMLES10-503 @wip
 Feature: Logout Functionality
 
   Background:
